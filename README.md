@@ -36,3 +36,9 @@ ppstructure deploy by ncnn
 ├── slanet_en.bin
 └── slanet_en.param           #英文表格检测模型(PP-StructureV2)
 ```
+
+## Reference：  
+https://github.com/Tencent/ncnn  
+https://github.com/PaddlePaddle/PaddleOCR  
+https://www.modelscope.cn/models?page=1&tasks=ocr&type=cv  
+https://github.com/360AILAB-NLP/360LayoutAnalysis  
