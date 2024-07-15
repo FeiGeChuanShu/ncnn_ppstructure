@@ -1,6 +1,10 @@
 # ncnn_ppstructure
 ppstructure deploy by ncnn
 
+## Result:  
+![](./doc/layout_res.jpg)  
+![](./doc/table_res.jpg)  
+
 ## model support:  
 ```shell
 ├── det.bin         
